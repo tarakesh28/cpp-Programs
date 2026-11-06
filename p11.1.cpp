@@ -15,8 +15,7 @@ public:
 };
 
 int main() {
-    cout << maxOf(3, 7) << " " << maxOf(2.5, 1.1)
-         << " " << maxOf<string>("apple", "mango") << endl;
+    cout << maxOf(3, 7) << " " << maxOf(2.5, 1.1) << " " << maxOf<string>("apple", "mango") << endl;
 
     Stack<int> s;
     s.push(10); s.push(20); s.push(30);

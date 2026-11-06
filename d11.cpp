@@ -18,13 +18,10 @@ int main()
 
         if (isalpha(ch))
         {
-            if (ch == 'a' || ch == 'e' || ch == 'i' ||
-                ch == 'o' || ch == 'u')
-            {
+            if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u'){
                 vowels++;
             }
-            else
-            {
+            else{
                 consonants++;
             }
         }

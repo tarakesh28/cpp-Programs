@@ -1,4 +1,3 @@
-//Program 7.3 – Hierarchical inheritance & protected access
 #include <iostream>
 using namespace std;
 class Account {

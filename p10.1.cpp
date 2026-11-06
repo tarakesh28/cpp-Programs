@@ -19,5 +19,5 @@ int main() {
 
     if (count) cout << "Average = " << (double)total / count << endl;
     return 0;
-}
+    }
 }
